@@ -1,0 +1,16 @@
+{
+  "name": "Dragon Fortune Deluxe",
+  "short_name": "Dragon Fortune",
+  "description": "Free-play social slot game. Virtual credits only — no real-money wagering or prizes.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0a0612",
+  "theme_color": "#0a0d0c",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
