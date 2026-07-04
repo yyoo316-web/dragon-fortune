@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.lidia.dragonfortune",
+        "sha256_cert_fingerprints": ["A5:56:B7:38:0B:A1:FA:32:4D:13:08:02:2C:DC:D7:99:FA:33:61:6A:15:27:2E:6E:49:FC:C7:8F:EF:3D:34:89"]
+      }
+    }]
